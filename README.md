@@ -10,6 +10,7 @@ I am DEV, I am a Full Stack Developer with experience building open-source proje
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://dev.com/)](https://dev.com/)
 [![Youtube Badge](https://img.shields.io/badge/-devce-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/dev)](https://youtube.com/dev)
 <img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
+[![DEV github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devce007&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)]
 <!--
 **devce007/devce007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+
+<img align="right" alt="Coding" width="300" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif">
 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content. 
 
 ## ⚡ Technologies
@@ -69,11 +72,17 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
-## All DSA Badges @LeetCode
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
+## 📈 Stats
+<p align="center">
+	
+  <img width="78%" src="https://github-readme-stats.vercel.app/api?username=AlfaRushabh&show_icons=true&theme=tokyonight" />
+  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfaRushabh&theme=tokyonight" />
+</p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devce007" alt="devce007" /></a> </p><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devce007&label=Profile%20views&color=0e75b6&style=flat" alt="devce007" /> </p>
+<p align="center">
+
+
+[![@amanjain18's Holopin board](https://holopin.me/@rushabh_007)](https://holopin.io/@rushabh_007)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
